@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Hosting in the internet:
+
+3:24:08
+We'll use Netlify becuase it automates the build and deployment process each time code is pushed to a select branch convinient for continuous deployment workflows.
+
+Netlify supports the hosting of single-page applications (SPAs) offering features such as redirects and serverless functions, which enhance the functionality of static sites without requiring a backend.
+
+Netlify detects when a site is built with Create React App and suggests optimal build commands and publish directories, simplifying the setup process for React developers.
+
+## Advanced React
+
+3:29:00

@@ -7,7 +7,7 @@ import './index.css';
 // books
 import {data} from './books';
 import SpecificBook from './book';
-import { greeting } from './testing/testing';
+import {greeting} from './testing/testing';
 
 
 function BookList () {
